@@ -19,9 +19,8 @@ Install and manage AI coding **Skills (SKILL.md)** and **Subagents (SUBAGENT.md)
 
 ### Quick Start
 
-`ash
 npx skillops-cli@latest add
-`
+
 
 ### Official Repositories
 
